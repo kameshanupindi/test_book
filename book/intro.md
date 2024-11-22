@@ -1,6 +1,6 @@
 (intro)=
-# Welcome to Computational Fluid Dynamics using Finite Volume Method Teachbook
+# Welcome to Computational Fluid Dynamics Teachbook
 
-_Write book intro here. This is the first page the student will see when opening the url._
+_In this teachbook we will be learning computational fluid dynamics using the finite volume method_
 
 This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative.
