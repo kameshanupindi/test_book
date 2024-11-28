@@ -5,3 +5,5 @@ _In this teachbook we will be learning computational fluid dynamics using the fi
 
 This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative.
 
+We are going to add governing equations here..
+
