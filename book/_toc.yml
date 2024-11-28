@@ -7,7 +7,7 @@ parts:
     - file: some_content/overview.md
       sections:
       - file: some_content/text_and_code.ipynb
-    - file: chapter1_intro.md
+    - file: chapter1.md
     - file: intro.md
     - file: references.md
     - file: changelog.md
